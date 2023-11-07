@@ -13,7 +13,7 @@
     [
         {
             "substep_name":"model_test.ipynb",
-            "params": {
+            "substep_params": {
               "rmse_threshold": 15
             }
         }
